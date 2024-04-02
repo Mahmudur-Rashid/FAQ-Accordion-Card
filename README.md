@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-card-made-with-bootstrap-and-custom-css-iVJQ45p1A9)
 - Live Site URL: [Netlify](https://faqaccordioncard2465.netlify.app/)
 
 ## My process
